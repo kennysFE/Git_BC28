@@ -5,6 +5,11 @@
  3/ Dua code minh len server github 
  lenh   git add. | git add ./index.html
         git commit -m "your comment"
-        git push
+        git push origin master
 4/ lệnh kiếm tra trạng thái của git
     lệnh:git status
+5/ lệnh giúp git biết dc sê đưa code lên chỗ nào
+    lệnh:git remote add {name} {url_github}
+    ví dụ:git remote add origin https://github.com/dinh2350/git-bc28.git
+6/ kiếm tra xem add remote thành công chưa:
+    lệnh:git remote
