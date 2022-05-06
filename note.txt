@@ -1,0 +1,10 @@
+1/ khoi tao git 
+ lenh : git init
+ 2/ phien ban git 
+ lenh : git --version
+ 3/ Dua code minh len server github 
+ lenh   git add. | git add ./index.html
+        git commit -m "your comment"
+        git push
+4/ lệnh kiếm tra trạng thái của git
+    lệnh:git status
