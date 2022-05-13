@@ -13,3 +13,14 @@
     ví dụ:git remote add origin https://github.com/dinh2350/git-bc28.git
 6/ kiếm tra xem add remote thành công chưa:
     lệnh:git remote
+7/ tháng mới vào công ty lây code vê như thế nào:
+     lệnh:git clone {url_github}I
+   ví dụ:git clone https://github.com/dinh2350/git-bc28.git
+8/ kiếm tra xem có bao nhiêu nhánh trên src code:
+    lệnh:git branch
+9/ tạo nhánh mới:
+    lệnh:git branch {name}
+   ví dụ:git branch hao-dep-trai
+10/ chuyển nhánh để code tiếp:
+    lệnh:git checkout (branch_name}
+   ví dụ:git checkout hao-dep-trai
